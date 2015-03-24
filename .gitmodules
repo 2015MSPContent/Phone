@@ -1,3 +1,6 @@
 [submodule "Ska-Studios-Xplatform"]
 	path = Ska-Studios-Xplatform
 	url = https://github.com/mspcontent/Ska-Studios-Xplatform
+[submodule "Sphero-Win-SDK"]
+	path = Sphero-Win-SDK
+	url = https://github.com/mspcontent/Sphero-Win-SDK
