@@ -4,3 +4,6 @@
 [submodule "Sphero-Win-SDK"]
 	path = Sphero-Win-SDK
 	url = https://github.com/mspcontent/Sphero-Win-SDK
+[submodule "MSPContent/Windows-8.1-Data-Binding-App-Demo"]
+	path = MSPContent/Windows-8.1-Data-Binding-App-Demo
+	url = https://github.com/michstmatt/Windows-8.1-Data-Binding-App-Demo
