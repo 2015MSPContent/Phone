@@ -10,3 +10,6 @@
 [submodule "MSPContent/Michigan-State-Cafeteria-App"]
 	path = MSPContent/Michigan-State-Cafeteria-App
 	url = https://github.com/michstmatt/Michigan-State-Cafeteria-App
+[submodule "Michigan-State-Cafeteria-App"]
+	path = Michigan-State-Cafeteria-App
+	url = https://github.com/michstmatt/Michigan-State-Cafeteria-App
