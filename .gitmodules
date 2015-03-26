@@ -13,3 +13,6 @@
 [submodule "Michigan-State-Cafeteria-App"]
 	path = Michigan-State-Cafeteria-App
 	url = https://github.com/michstmatt/Michigan-State-Cafeteria-App
+[submodule "Windows-8.1-Data-Binding-App-Demo"]
+	path = Windows-8.1-Data-Binding-App-Demo
+	url = https://github.com/michstmatt/Windows-8.1-Data-Binding-App-Demo
