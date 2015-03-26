@@ -19,3 +19,6 @@
 [submodule "MSP-Made-Content/Windows-8.1-Data-Binding-App-Demo"]
 	path = MSP-Made-Content/Windows-8.1-Data-Binding-App-Demo
 	url = https://github.com/michstmatt/Windows-8.1-Data-Binding-App-Demo
+[submodule "MSP-Made-Content/Michigan-State-Cafeteria-App"]
+	path = MSP-Made-Content/Michigan-State-Cafeteria-App
+	url = https://github.com/michstmatt/Michigan-State-Cafeteria-App
