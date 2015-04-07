@@ -25,3 +25,6 @@
 [submodule "Spark-RGB-Controller"]
 	path = Spark-RGB-Controller
 	url = https://github.com/michstmatt/Spark-RGB-Controller
+[submodule "MSP-Made-Content/Spark-RGB-Controller"]
+	path = MSP-Made-Content/Spark-RGB-Controller
+	url = https://github.com/michstmatt/Spark-RGB-Controller
