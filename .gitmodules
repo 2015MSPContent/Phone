@@ -22,3 +22,6 @@
 [submodule "MSP-Made-Content/Michigan-State-Cafeteria-App"]
 	path = MSP-Made-Content/Michigan-State-Cafeteria-App
 	url = https://github.com/michstmatt/Michigan-State-Cafeteria-App
+[submodule "Spark-RGB-Controller"]
+	path = Spark-RGB-Controller
+	url = https://github.com/michstmatt/Spark-RGB-Controller
